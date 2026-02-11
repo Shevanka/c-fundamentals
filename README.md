@@ -29,6 +29,3 @@ General format:
 
 ```bash
 gcc filename.c -o output_name
-
-gcc 01-control-flow/even_or_odd.c -o even
-./even
