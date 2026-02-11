@@ -15,6 +15,21 @@ The goal of this repository is to demonstrate a strong foundation in procedural 
 - `05-strings/` → Manual string manipulation
 - `06-struct/` → Struct and structured data modeling
 
+Each folder contains focused, single-responsibility programs intended to reinforce core concepts.
+
+---
+
+## Technical Focus
+
+This repository emphasizes:
+
+- Clean procedural design
+- Modular function implementation
+- Manual memory-level logic (especially for strings)
+- Structured data modeling using struct
+- Iterative and recursive algorithm comparison
+- Defensive input handling
+
 ---
 
 ## Requirements
@@ -23,9 +38,12 @@ The goal of this repository is to demonstrate a strong foundation in procedural 
 
 ---
 
+
 ## How to Compile
 
-General format:
+Basic compilation:
 
 ```bash
-gcc filename.c -o output_name
+gcc filename.c -o output
+./output
+```
