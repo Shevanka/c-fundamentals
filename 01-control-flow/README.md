@@ -18,3 +18,11 @@ This folder contains programs that demonstrate decision-making logic in C using:
 ```bash
 gcc even_or_odd.c -o even
 ./even
+```
+
+## Expected Skills
+
+After completing this section, i am able to:
+- Build simple decision-based programs
+- Handle multiple condition branches
+- Use switch-case properly
